@@ -32,7 +32,7 @@ tabulka <- cbind (tabulka, data.frame (n.j, p.j, N.j, F.j, d.j, f.j))
 tabulka
 
 # sloupkovy diagram cetnosti
-#...
+#...test
 
 # sloupkovy diagram relativnich cetnosti
 #...
